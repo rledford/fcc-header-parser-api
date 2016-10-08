@@ -1,0 +1,28 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node parser.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rledford/fcc-header-parser-api.git"
+  },
+  "keywords": [
+    "header",
+    "parser",
+    "microservice"
+  ],
+  "author": "Ryan Ledford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rledford/fcc-header-parser-api/issues"
+  },
+  "homepage": "https://github.com/rledford/fcc-header-parser-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
